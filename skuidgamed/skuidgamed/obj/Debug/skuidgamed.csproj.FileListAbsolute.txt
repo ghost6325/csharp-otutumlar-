@@ -1,0 +1,10 @@
+D:\skuidgamed\skuidgamed\bin\Debug\skuidgamed.exe.config
+D:\skuidgamed\skuidgamed\bin\Debug\skuidgamed.exe
+D:\skuidgamed\skuidgamed\bin\Debug\skuidgamed.pdb
+D:\skuidgamed\skuidgamed\obj\Debug\skuidgamed.csproj.AssemblyReference.cache
+D:\skuidgamed\skuidgamed\obj\Debug\skuidgamed.Form1.resources
+D:\skuidgamed\skuidgamed\obj\Debug\skuidgamed.Properties.Resources.resources
+D:\skuidgamed\skuidgamed\obj\Debug\skuidgamed.csproj.GenerateResource.cache
+D:\skuidgamed\skuidgamed\obj\Debug\skuidgamed.csproj.CoreCompileInputs.cache
+D:\skuidgamed\skuidgamed\obj\Debug\skuidgamed.exe
+D:\skuidgamed\skuidgamed\obj\Debug\skuidgamed.pdb
