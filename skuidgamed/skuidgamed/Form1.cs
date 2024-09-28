@@ -25,7 +25,7 @@ namespace skuidgamed
             button2.Enabled = false;
         }
 
-        private async void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             MessageBox.Show ("elendiniz");
             this.Close();
