@@ -1,0 +1,58 @@
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.csproj.AssemblyReference.cache
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.Form1.resources
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.Properties.Resources.resources
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.csproj.GenerateResource.cache
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.csproj.CoreCompileInputs.cache
+C:\Users\ogr14\source\repos\oturum6\bin\Debug\oturum6.exe.config
+C:\Users\ogr14\source\repos\oturum6\bin\Debug\oturum6.exe
+C:\Users\ogr14\source\repos\oturum6\bin\Debug\oturum6.pdb
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.exe
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.pdb
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.Form2.resources
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.Form3.resources
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.Form4.resources
+C:\Users\ogr14\source\repos\oturum6\obj\Debug\oturum6.Form5.resources
+D:\oturum6\bin\Debug\oturum6.exe.config
+D:\oturum6\bin\Debug\oturum6.exe
+D:\oturum6\bin\Debug\oturum6.pdb
+D:\oturum6\obj\Debug\oturum6.csproj.AssemblyReference.cache
+D:\oturum6\obj\Debug\oturum6.Form1.resources
+D:\oturum6\obj\Debug\oturum6.Form2.resources
+D:\oturum6\obj\Debug\oturum6.Form3.resources
+D:\oturum6\obj\Debug\oturum6.Form4.resources
+D:\oturum6\obj\Debug\oturum6.Form5.resources
+D:\oturum6\obj\Debug\oturum6.Form6.resources
+D:\oturum6\obj\Debug\oturum6.Properties.Resources.resources
+D:\oturum6\obj\Debug\oturum6.csproj.GenerateResource.cache
+D:\oturum6\obj\Debug\oturum6.csproj.CoreCompileInputs.cache
+D:\oturum6\obj\Debug\oturum6.exe
+D:\oturum6\obj\Debug\oturum6.pdb
+D:\oturum6\obj\Debug\oturum6.if.resources
+D:\oturum6\obj\Debug\oturum6.Form7.resources
+D:\oturum6\obj\Debug\oturum6.Form9.resources
+D:\oturum6\obj\Debug\oturum6.Form10.resources
+D:\oturum6\obj\Debug\oturum6.Form11.resources
+D:\oturum6\obj\Debug\oturum6.odev.resources
+D:\oturum6\obj\Debug\oturum6.odev2.resources
+D:\5 oturum\bin\Debug\oturum6.exe.config
+D:\5 oturum\bin\Debug\oturum6.exe
+D:\5 oturum\bin\Debug\oturum6.pdb
+D:\5 oturum\obj\Debug\oturum6.csproj.AssemblyReference.cache
+D:\5 oturum\obj\Debug\oturum6.Form1.resources
+D:\5 oturum\obj\Debug\oturum6.Form10.resources
+D:\5 oturum\obj\Debug\oturum6.Form11.resources
+D:\5 oturum\obj\Debug\oturum6.Form2.resources
+D:\5 oturum\obj\Debug\oturum6.Form3.resources
+D:\5 oturum\obj\Debug\oturum6.Form4.resources
+D:\5 oturum\obj\Debug\oturum6.Form7.resources
+D:\5 oturum\obj\Debug\oturum6.if.resources
+D:\5 oturum\obj\Debug\oturum6.Form9.resources
+D:\5 oturum\obj\Debug\oturum6.odev.resources
+D:\5 oturum\obj\Debug\oturum6.odev2.resources
+D:\5 oturum\obj\Debug\oturum6.Form5.resources
+D:\5 oturum\obj\Debug\oturum6.Form6.resources
+D:\5 oturum\obj\Debug\oturum6.Properties.Resources.resources
+D:\5 oturum\obj\Debug\oturum6.csproj.GenerateResource.cache
+D:\5 oturum\obj\Debug\oturum6.csproj.CoreCompileInputs.cache
+D:\5 oturum\obj\Debug\oturum6.exe
+D:\5 oturum\obj\Debug\oturum6.pdb
