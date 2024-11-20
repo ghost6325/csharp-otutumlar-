@@ -1,0 +1,16 @@
+D:\oturumlar\oturum 8\bin\Debug\oturum 8.exe.config
+D:\oturumlar\oturum 8\bin\Debug\oturum 8.exe
+D:\oturumlar\oturum 8\bin\Debug\oturum 8.pdb
+D:\oturumlar\oturum 8\obj\Debug\oturum 8.csproj.AssemblyReference.cache
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Form1.resources
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Properties.Resources.resources
+D:\oturumlar\oturum 8\obj\Debug\oturum 8.csproj.GenerateResource.cache
+D:\oturumlar\oturum 8\obj\Debug\oturum 8.csproj.CoreCompileInputs.cache
+D:\oturumlar\oturum 8\obj\Debug\oturum 8.exe
+D:\oturumlar\oturum 8\obj\Debug\oturum 8.pdb
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Form2.resources
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Form3.resources
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Form4.resources
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Form5.resources
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Form6.resources
+D:\oturumlar\oturum 8\obj\Debug\oturum_8.Form7.resources

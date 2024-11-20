@@ -1,0 +1,45 @@
+D:\oturum 7\bin\Debug\oturum 7.exe.config
+D:\oturum 7\bin\Debug\oturum 7.exe
+D:\oturum 7\bin\Debug\oturum 7.pdb
+D:\oturum 7\obj\Debug\oturum 7.csproj.AssemblyReference.cache
+D:\oturum 7\obj\Debug\oturum_7.Form1.resources
+D:\oturum 7\obj\Debug\oturum_7.Properties.Resources.resources
+D:\oturum 7\obj\Debug\oturum 7.csproj.GenerateResource.cache
+D:\oturum 7\obj\Debug\oturum 7.csproj.CoreCompileInputs.cache
+D:\oturum 7\obj\Debug\oturum 7.exe
+D:\oturum 7\obj\Debug\oturum 7.pdb
+D:\oturum 7\obj\Debug\oturum_7.Form2.resources
+D:\oturum 7\obj\Debug\oturum_7.Form3.resources
+D:\oturum 7\obj\Debug\oturum_7.Form4.resources
+D:\oturum 7\obj\Debug\oturum_7.Form5.resources
+D:\oturum 7\obj\Debug\oturum_7.Form6.resources
+D:\oturum 7\obj\Debug\oturum_7.Form7.resources
+D:\oturum 7\obj\Debug\oturum_7.odev.resources
+D:\oturum 7\obj\Debug\oturum_7.Form8.resources
+D:\oturum 7\obj\Debug\oturum_7.Form9.resources
+D:\oturum 7\obj\Debug\oturum_7.Form10.resources
+D:\oturumlar\7 oturum\bin\Debug\oturum 7.exe.config
+D:\oturumlar\7 oturum\bin\Debug\oturum 7.exe
+D:\oturumlar\7 oturum\bin\Debug\oturum 7.pdb
+D:\oturumlar\7 oturum\obj\Debug\oturum 7.csproj.AssemblyReference.cache
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form1.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form10.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form2.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form3.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form4.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form5.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form6.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form7.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form8.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form9.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.odev.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Properties.Resources.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum 7.csproj.GenerateResource.cache
+D:\oturumlar\7 oturum\obj\Debug\oturum 7.csproj.CoreCompileInputs.cache
+D:\oturumlar\7 oturum\obj\Debug\oturum 7.exe
+D:\oturumlar\7 oturum\obj\Debug\oturum 7.pdb
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form12.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form13.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form14.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form15.resources
+D:\oturumlar\7 oturum\obj\Debug\oturum_7.Form16.resources
