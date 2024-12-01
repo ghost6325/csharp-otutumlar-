@@ -1,0 +1,18 @@
+D:\oturumlar\10 oturum\bin\Debug\10 oturum.exe.config
+D:\oturumlar\10 oturum\bin\Debug\10 oturum.exe
+D:\oturumlar\10 oturum\bin\Debug\10 oturum.pdb
+D:\oturumlar\10 oturum\obj\Debug\10 oturum.csproj.AssemblyReference.cache
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form1.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Properties.Resources.resources
+D:\oturumlar\10 oturum\obj\Debug\10 oturum.csproj.GenerateResource.cache
+D:\oturumlar\10 oturum\obj\Debug\10 oturum.csproj.CoreCompileInputs.cache
+D:\oturumlar\10 oturum\obj\Debug\10 oturum.exe
+D:\oturumlar\10 oturum\obj\Debug\10 oturum.pdb
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form2.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form3.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form4.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form5.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form6.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form7.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form8.resources
+D:\oturumlar\10 oturum\obj\Debug\_10_oturum.Form9.resources
