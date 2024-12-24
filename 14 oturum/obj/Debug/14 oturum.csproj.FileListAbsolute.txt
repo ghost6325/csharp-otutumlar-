@@ -1,0 +1,21 @@
+D:\oturumlar\14 oturum\bin\Debug\14 oturum.exe.config
+D:\oturumlar\14 oturum\bin\Debug\14 oturum.exe
+D:\oturumlar\14 oturum\bin\Debug\14 oturum.pdb
+D:\oturumlar\14 oturum\obj\Debug\14 oturum.csproj.AssemblyReference.cache
+D:\oturumlar\14 oturum\obj\Debug\_14_oturum.Form1.resources
+D:\oturumlar\14 oturum\obj\Debug\_14_oturum.Properties.Resources.resources
+D:\oturumlar\14 oturum\obj\Debug\14 oturum.csproj.GenerateResource.cache
+D:\oturumlar\14 oturum\obj\Debug\14 oturum.csproj.CoreCompileInputs.cache
+D:\oturumlar\14 oturum\obj\Debug\14 oturum.exe
+D:\oturumlar\14 oturum\obj\Debug\14 oturum.pdb
+E:\oturumlar\14 oturum\bin\Debug\14 oturum.exe.config
+E:\oturumlar\14 oturum\bin\Debug\14 oturum.exe
+E:\oturumlar\14 oturum\bin\Debug\14 oturum.pdb
+E:\oturumlar\14 oturum\obj\Debug\14 oturum.csproj.AssemblyReference.cache
+E:\oturumlar\14 oturum\obj\Debug\_14_oturum.Form1.resources
+E:\oturumlar\14 oturum\obj\Debug\_14_oturum.Form2.resources
+E:\oturumlar\14 oturum\obj\Debug\_14_oturum.Properties.Resources.resources
+E:\oturumlar\14 oturum\obj\Debug\14 oturum.csproj.GenerateResource.cache
+E:\oturumlar\14 oturum\obj\Debug\14 oturum.csproj.CoreCompileInputs.cache
+E:\oturumlar\14 oturum\obj\Debug\14 oturum.exe
+E:\oturumlar\14 oturum\obj\Debug\14 oturum.pdb

@@ -1,0 +1,10 @@
+D:\oturumlar\12 oturum\bin\Debug\12 oturum.exe.config
+D:\oturumlar\12 oturum\bin\Debug\12 oturum.exe
+D:\oturumlar\12 oturum\bin\Debug\12 oturum.pdb
+D:\oturumlar\12 oturum\obj\Debug\12 oturum.csproj.AssemblyReference.cache
+D:\oturumlar\12 oturum\obj\Debug\_12_oturum.Form1.resources
+D:\oturumlar\12 oturum\obj\Debug\_12_oturum.Properties.Resources.resources
+D:\oturumlar\12 oturum\obj\Debug\12 oturum.csproj.GenerateResource.cache
+D:\oturumlar\12 oturum\obj\Debug\12 oturum.csproj.CoreCompileInputs.cache
+D:\oturumlar\12 oturum\obj\Debug\12 oturum.exe
+D:\oturumlar\12 oturum\obj\Debug\12 oturum.pdb
